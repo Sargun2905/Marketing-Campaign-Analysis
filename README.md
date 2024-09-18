@@ -105,3 +105,13 @@ Visualizations such as scatter plots, histograms, and boxplots are used to highl
 
 ## Conclusion
 This project demonstrates how data analysis and clustering can be applied to real-world marketing datasets to improve ad campaign efficiency. By understanding customer behavior, businesses can refine their strategies, increase conversion rates, and maximize ROAS.
+
+## Credits
+
+This project was initially created in R by [Chris Bow](https://www.kaggle.com/code/chrisbow/an-introduction-to-facebook-ad-analysis-using-r) and has been converted to Python by [Sargun Singh]. Special thanks to the original creator for their contributions.
+
+## Dataset
+
+The dataset used for this project is publicly available on Kaggle. You can access it here: [Kaggle Dataset Link](https://www.kaggle.com/code/chrisbow/an-introduction-to-facebook-ad-analysis-using-r/input)
+
+
