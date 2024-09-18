@@ -1,7 +1,5 @@
 # Marketing Campaign Analysis
 
-### Level: Beginner
-
 ## Project Overview
 
 This project analyzes a social media ad campaign dataset to identify key factors influencing ad conversions. By exploring aspects such as age, gender, and interests, the project aims to uncover behavioral patterns using **cluster analysis**. The insights gained from this analysis can help optimize future marketing strategies for better conversion rates and return on ad spend (ROAS).
